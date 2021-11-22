@@ -1,0 +1,25 @@
+{
+  "name": "pets",
+  "version": "1.0.0",
+  "description": "Pet project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:report": "jest --coverage=true"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpaynejohnson/Pets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cpaynejohnson/Pets/issues"
+  },
+  "homepage": "https://github.com/cpaynejohnson/Pets#readme",
+  "dependencies": {
+    "jest": "^27.3.1"
+  }
+}
